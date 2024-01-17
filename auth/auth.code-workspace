@@ -1,0 +1,32 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../infra"
+    },
+    {
+      "path": "../client"
+    },
+    {
+      "path": "../common"
+    },
+    {
+      "path": "../tickets"
+    },
+    {
+      "path": "../nats-test"
+    },
+    {
+      "path": "../orders"
+    },
+    {
+      "path": "../expiration"
+    },
+    {
+      "path": "../payments"
+    }
+  ],
+  "settings": {}
+}
